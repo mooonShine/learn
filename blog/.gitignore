@@ -1,0 +1,9 @@
+nbproject/
+public/uploads/
+.htaccess
+application/conf/config.ini
+public/index.php
+.project
+.idea
+.settings
+
